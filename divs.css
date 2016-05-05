@@ -1,0 +1,24 @@
+div {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    background: white;
+    border: 1px solid black;
+    margin: -5px;
+}
+#c{
+    background: white;
+    border: 0;
+    height: 700px;
+    width: 700px;
+}
+.click1{
+    background-image: url(cross.png);
+}
+
+.click2{
+    background-image: url(zero.png);
+}
+.in{
+
+}
